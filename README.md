@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on SAP tecnology
 - 🌱 I’m currently learning Ui5, JS and Java
-- ⚡ Fun fact: I'm graduated in psychology
+- ⚡ Fun fact: I'm graduated in Psychology
  
  <div>
   <a href="https://github.com/andreamaral82">
